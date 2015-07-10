@@ -1,0 +1,15 @@
+{
+  "name": "AnaAdventureGame",
+  "version": "0.0.0",
+  "description": "Juego multipersona para mi hija y sus amiguitos",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"    
+  },
+  "author": "Juan J. Riera E.",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.7.13",
+    "express": "^4.13.1"
+  }
+}

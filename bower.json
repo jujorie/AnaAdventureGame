@@ -1,0 +1,21 @@
+{
+  "name": "AnaAdventureGame",
+  "version": "0.0.0",
+  "authors": [
+    "Juan J Riera E <jujorie@gmail.com>"
+  ],
+  "description": "Juego Multipersona para mi Hija y sus amiguitos",
+  "main": "Sever.js",
+  "license": "MIT",
+  "homepage": "AnaAdventureGame.Blogspot.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.3.0"
+  }
+}
