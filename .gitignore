@@ -2,3 +2,6 @@ bower_components
 node_modules
 typings/*
 !typings/tsd.d.ts
+src/typings
+!src/typings/tsd.d.ts
+!src/typings/phaser

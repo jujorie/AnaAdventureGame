@@ -1,5 +1,3 @@
-/// <reference path="../../typings/tsd.d.ts" />
-
 
 var gameState = function (game) {
 };

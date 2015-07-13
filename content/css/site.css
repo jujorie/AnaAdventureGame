@@ -1,0 +1,19 @@
+
+body {
+	background-image: url(images/BG.png);
+	background-repeat: repeat-x;
+	background-position: 0 bottom;
+	background-color:  #69df89;
+}
+
+.container
+{
+	text-align: center; 
+}   
+
+.game {
+	margin: auto;
+	margin-top: 50px;
+	width:800px;	
+	border: 2px solid #ccc;
+}
